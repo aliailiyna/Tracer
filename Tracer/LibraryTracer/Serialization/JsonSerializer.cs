@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Newtonsoft.Json;
 
 namespace LibraryTracer
 {
@@ -8,7 +9,7 @@ namespace LibraryTracer
     {
         public string Serialize(TraceResult traceResult)
         {
-            return null;
+            return JsonConvert.SerializeObject(traceResult, Formatting.Indented);
         }
     }
 }

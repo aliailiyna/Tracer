@@ -8,7 +8,7 @@ namespace LibraryTracer
     {
         public void Write(string strTraceResult)
         {
-
+            Console.WriteLine(strTraceResult);
         }
     }
 }
