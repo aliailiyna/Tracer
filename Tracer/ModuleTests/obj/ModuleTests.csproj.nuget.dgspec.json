@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\5_semestr\\4.СПП\\Lab_1_1\\Tracer\\ModuleTests\\ModuleTests.csproj": {}
+    "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\ModuleTests\\ModuleTests.csproj": {}
   },
   "projects": {
-    "e:\\5_semestr\\4.СПП\\Lab_1_1\\Tracer\\ModuleTests\\ModuleTests.csproj": {
+    "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\LibraryTracer\\LibraryTracer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\5_semestr\\4.СПП\\Lab_1_1\\Tracer\\ModuleTests\\ModuleTests.csproj",
-        "projectName": "ModuleTests",
-        "projectPath": "e:\\5_semestr\\4.СПП\\Lab_1_1\\Tracer\\ModuleTests\\ModuleTests.csproj",
+        "projectUniqueName": "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\LibraryTracer\\LibraryTracer.csproj",
+        "projectName": "LibraryTracer",
+        "projectPath": "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\LibraryTracer\\LibraryTracer.csproj",
         "packagesPath": "C:\\Users\\Sasha\\.nuget\\packages\\",
-        "outputPath": "e:\\5_semestr\\4.СПП\\Lab_1_1\\Tracer\\ModuleTests\\obj\\",
+        "outputPath": "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\LibraryTracer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,6 +27,62 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\ModuleTests\\ModuleTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\ModuleTests\\ModuleTests.csproj",
+        "projectName": "ModuleTests",
+        "projectPath": "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\ModuleTests\\ModuleTests.csproj",
+        "packagesPath": "C:\\Users\\Sasha\\.nuget\\packages\\",
+        "outputPath": "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\ModuleTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\LibraryTracer\\LibraryTracer.csproj": {
+                "projectPath": "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\LibraryTracer\\LibraryTracer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

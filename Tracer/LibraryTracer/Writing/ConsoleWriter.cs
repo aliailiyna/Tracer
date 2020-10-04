@@ -4,9 +4,9 @@ using System.Text;
 
 namespace LibraryTracer
 {
-    class ConsoleWriter: IWriter
+    public class ConsoleWriter: IWriter
     {
-        public void Write(TraceResult traceResult, ISerializer serializer)
+        public void Write(string strTraceResult)
         {
 
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FnHlPfIwPvWBROLtYWMtTxIFlkKQl+O4/9xxyPRxvd+aKAOejkXvE6CoIqVPczMrI7sEyNh0amil3vqkiSk3wA==",
+  "dgSpecHash": "Erdya5cjraRBf7k74WkR5PtLlxQph0qcz/Uc2aff3hwMXCBEQq5Lsd/WyQ05cQC6v2is1DmVSmUMKf2q8p7k5Q==",
   "success": true,
-  "projectFilePath": "e:\\5_semestr\\4.СПП\\Lab_1_1\\Tracer\\ModuleTests\\ModuleTests.csproj",
+  "projectFilePath": "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\ModuleTests\\ModuleTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sasha\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Sasha\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

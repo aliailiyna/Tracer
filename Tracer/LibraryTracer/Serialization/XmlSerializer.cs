@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LibraryTracer
 {
-    class XmlSerializer: ISerializer
+    public class XmlSerializer: ISerializer
     {
         public string Serialize(TraceResult traceResult)
         {

@@ -1634,6 +1634,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "LibraryTracer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/LibraryTracer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryTracer.dll": {}
+        }
       }
     }
   },
@@ -5705,10 +5715,16 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "LibraryTracer/1.0.0": {
+      "type": "project",
+      "path": "../LibraryTracer/LibraryTracer.csproj",
+      "msbuildProject": "../LibraryTracer/LibraryTracer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "LibraryTracer >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
@@ -5721,11 +5737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\5_semestr\\4.СПП\\Lab_1_1\\Tracer\\ModuleTests\\ModuleTests.csproj",
+      "projectUniqueName": "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\ModuleTests\\ModuleTests.csproj",
       "projectName": "ModuleTests",
-      "projectPath": "e:\\5_semestr\\4.СПП\\Lab_1_1\\Tracer\\ModuleTests\\ModuleTests.csproj",
+      "projectPath": "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\ModuleTests\\ModuleTests.csproj",
       "packagesPath": "C:\\Users\\Sasha\\.nuget\\packages\\",
-      "outputPath": "e:\\5_semestr\\4.СПП\\Lab_1_1\\Tracer\\ModuleTests\\obj\\",
+      "outputPath": "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\ModuleTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5740,7 +5756,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\LibraryTracer\\LibraryTracer.csproj": {
+              "projectPath": "e:\\5_semestr\\4.СПП\\Lab_1_2\\Tracer\\LibraryTracer\\LibraryTracer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

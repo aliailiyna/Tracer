@@ -6,6 +6,7 @@ namespace LibraryTracer
 {
     public class Tracer: ITracer
     {
+        private TraceResult traceResult = new TraceResult();
         // вызывается в начале замеряемого метода
         public void StartTrace()
         {
@@ -21,7 +22,7 @@ namespace LibraryTracer
         // получить результаты измерений  
         public TraceResult GetTraceResult()
         {
-            return null;
+            return traceResult;
         }
     }
 }

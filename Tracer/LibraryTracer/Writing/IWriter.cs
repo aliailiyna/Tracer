@@ -6,6 +6,6 @@ namespace LibraryTracer
 {
     public interface IWriter
     {
-        void Write(TraceResult traceResult, ISerializer serializer);
+        void Write(string strTraceResult);
     }
 }
