@@ -1,0 +1,13 @@
+E:\Tracer\Tracer\bin\Debug\netcoreapp3.1\ConsoleApplication.exe
+E:\Tracer\Tracer\bin\Debug\netcoreapp3.1\ConsoleApplication.deps.json
+E:\Tracer\Tracer\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.json
+E:\Tracer\Tracer\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.dev.json
+E:\Tracer\Tracer\bin\Debug\netcoreapp3.1\ConsoleApplication.dll
+E:\Tracer\Tracer\bin\Debug\netcoreapp3.1\ConsoleApplication.pdb
+E:\Tracer\Tracer\obj\Debug\netcoreapp3.1\ConsoleApplication.csprojAssemblyReference.cache
+E:\Tracer\Tracer\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfoInputs.cache
+E:\Tracer\Tracer\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfo.cs
+E:\Tracer\Tracer\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.CoreCompileInputs.cache
+E:\Tracer\Tracer\obj\Debug\netcoreapp3.1\ConsoleApplication.dll
+E:\Tracer\Tracer\obj\Debug\netcoreapp3.1\ConsoleApplication.pdb
+E:\Tracer\Tracer\obj\Debug\netcoreapp3.1\ConsoleApplication.genruntimeconfig.cache

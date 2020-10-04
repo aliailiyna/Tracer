@@ -1,0 +1,16 @@
+e:\Tracer\LibraryTracer\bin\Release\netcoreapp3.1\LibraryTracer.deps.json
+e:\Tracer\LibraryTracer\bin\Release\netcoreapp3.1\LibraryTracer.dll
+e:\Tracer\LibraryTracer\bin\Release\netcoreapp3.1\LibraryTracer.pdb
+e:\Tracer\LibraryTracer\obj\Release\netcoreapp3.1\LibraryTracer.AssemblyInfoInputs.cache
+e:\Tracer\LibraryTracer\obj\Release\netcoreapp3.1\LibraryTracer.AssemblyInfo.cs
+e:\Tracer\LibraryTracer\obj\Release\netcoreapp3.1\LibraryTracer.csproj.CoreCompileInputs.cache
+e:\Tracer\LibraryTracer\obj\Release\netcoreapp3.1\LibraryTracer.dll
+e:\Tracer\LibraryTracer\obj\Release\netcoreapp3.1\LibraryTracer.pdb
+e:\5_semestr\4.СПП\Lab_1_1\Tracer\LibraryTracer\bin\Release\netcoreapp3.1\LibraryTracer.deps.json
+e:\5_semestr\4.СПП\Lab_1_1\Tracer\LibraryTracer\bin\Release\netcoreapp3.1\LibraryTracer.dll
+e:\5_semestr\4.СПП\Lab_1_1\Tracer\LibraryTracer\bin\Release\netcoreapp3.1\LibraryTracer.pdb
+e:\5_semestr\4.СПП\Lab_1_1\Tracer\LibraryTracer\obj\Release\netcoreapp3.1\LibraryTracer.AssemblyInfoInputs.cache
+e:\5_semestr\4.СПП\Lab_1_1\Tracer\LibraryTracer\obj\Release\netcoreapp3.1\LibraryTracer.AssemblyInfo.cs
+e:\5_semestr\4.СПП\Lab_1_1\Tracer\LibraryTracer\obj\Release\netcoreapp3.1\LibraryTracer.csproj.CoreCompileInputs.cache
+e:\5_semestr\4.СПП\Lab_1_1\Tracer\LibraryTracer\obj\Release\netcoreapp3.1\LibraryTracer.dll
+e:\5_semestr\4.СПП\Lab_1_1\Tracer\LibraryTracer\obj\Release\netcoreapp3.1\LibraryTracer.pdb
