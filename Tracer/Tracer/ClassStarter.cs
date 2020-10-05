@@ -11,6 +11,8 @@ namespace ConsoleApplication
     {
         private ITracer tracer;
 
+        public static readonly int THREADS_COUNT = 3;
+
         public ClassStarter(ITracer argTracer)
         {
             tracer = argTracer;
@@ -19,7 +21,7 @@ namespace ConsoleApplication
         {
             tracer.StartTrace();
             List<Thread> threadList = new List<Thread>();
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < THREADS_COUNT; i++)
             {
                 ClassFirst firstClass = new ClassFirst(tracer);
                 Thread thread = new Thread(firstClass.MethodStart);

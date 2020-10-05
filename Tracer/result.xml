@@ -2,108 +2,24 @@
 <ArrayOfXmlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <XmlItem>
     <id>1</id>
-    <time>1353</time>
+    <time>1408</time>
     <methodsList>
       <MethodInformation>
         <name>MethodStart</name>
         <className>ClassStarter</className>
-        <time>1353</time>
+        <time>1408</time>
         <methodsList />
       </MethodInformation>
     </methodsList>
   </XmlItem>
   <XmlItem>
-    <id>4</id>
-    <time>4102</time>
-    <methodsList>
-      <MethodInformation>
-        <name>MethodStart</name>
-        <className>ClassFirst</className>
-        <time>1351</time>
-        <methodsList>
-          <MethodInformation>
-            <name>MethodFirst</name>
-            <className>ClassFirst</className>
-            <time>100</time>
-            <methodsList />
-          </MethodInformation>
-          <MethodInformation>
-            <name>MethodSecond</name>
-            <className>ClassFirst</className>
-            <time>250</time>
-            <methodsList>
-              <MethodInformation>
-                <name>MethodFirst</name>
-                <className>ClassFirst</className>
-                <time>100</time>
-                <methodsList />
-              </MethodInformation>
-            </methodsList>
-          </MethodInformation>
-          <MethodInformation>
-            <name>MethodFirstNested</name>
-            <className>ClassFirst</className>
-            <time>350</time>
-            <methodsList>
-              <MethodInformation>
-                <name>MethodFirst</name>
-                <className>ClassFirst</className>
-                <time>100</time>
-                <methodsList />
-              </MethodInformation>
-              <MethodInformation>
-                <name>MethodSecond</name>
-                <className>ClassFirst</className>
-                <time>250</time>
-                <methodsList>
-                  <MethodInformation>
-                    <name>MethodFirst</name>
-                    <className>ClassFirst</className>
-                    <time>100</time>
-                    <methodsList />
-                  </MethodInformation>
-                </methodsList>
-              </MethodInformation>
-            </methodsList>
-          </MethodInformation>
-          <MethodInformation>
-            <name>MethodSecondNested</name>
-            <className>ClassFirst</className>
-            <time>651</time>
-            <methodsList>
-              <MethodInformation>
-                <name>MethodFirst</name>
-                <className>ClassSecond</className>
-                <time>200</time>
-                <methodsList />
-              </MethodInformation>
-              <MethodInformation>
-                <name>MethodSecond</name>
-                <className>ClassSecond</className>
-                <time>450</time>
-                <methodsList>
-                  <MethodInformation>
-                    <name>MethodFirst</name>
-                    <className>ClassSecond</className>
-                    <time>200</time>
-                    <methodsList />
-                  </MethodInformation>
-                </methodsList>
-              </MethodInformation>
-            </methodsList>
-          </MethodInformation>
-        </methodsList>
-      </MethodInformation>
-    </methodsList>
-  </XmlItem>
-  <XmlItem>
     <id>5</id>
-    <time>4102</time>
+    <time>4124</time>
     <methodsList>
       <MethodInformation>
         <name>MethodStart</name>
         <className>ClassFirst</className>
-        <time>1351</time>
+        <time>1358</time>
         <methodsList>
           <MethodInformation>
             <name>MethodFirst</name>
@@ -127,12 +43,12 @@
           <MethodInformation>
             <name>MethodFirstNested</name>
             <className>ClassFirst</className>
-            <time>350</time>
+            <time>352</time>
             <methodsList>
               <MethodInformation>
                 <name>MethodFirst</name>
                 <className>ClassFirst</className>
-                <time>100</time>
+                <time>102</time>
                 <methodsList />
               </MethodInformation>
               <MethodInformation>
@@ -153,18 +69,18 @@
           <MethodInformation>
             <name>MethodSecondNested</name>
             <className>ClassFirst</className>
-            <time>651</time>
+            <time>656</time>
             <methodsList>
               <MethodInformation>
                 <name>MethodFirst</name>
                 <className>ClassSecond</className>
-                <time>200</time>
+                <time>204</time>
                 <methodsList />
               </MethodInformation>
               <MethodInformation>
                 <name>MethodSecond</name>
                 <className>ClassSecond</className>
-                <time>450</time>
+                <time>452</time>
                 <methodsList>
                   <MethodInformation>
                     <name>MethodFirst</name>
@@ -182,12 +98,96 @@
   </XmlItem>
   <XmlItem>
     <id>6</id>
-    <time>4102</time>
+    <time>4124</time>
     <methodsList>
       <MethodInformation>
         <name>MethodStart</name>
         <className>ClassFirst</className>
-        <time>1351</time>
+        <time>1358</time>
+        <methodsList>
+          <MethodInformation>
+            <name>MethodFirst</name>
+            <className>ClassFirst</className>
+            <time>100</time>
+            <methodsList />
+          </MethodInformation>
+          <MethodInformation>
+            <name>MethodSecond</name>
+            <className>ClassFirst</className>
+            <time>251</time>
+            <methodsList>
+              <MethodInformation>
+                <name>MethodFirst</name>
+                <className>ClassFirst</className>
+                <time>101</time>
+                <methodsList />
+              </MethodInformation>
+            </methodsList>
+          </MethodInformation>
+          <MethodInformation>
+            <name>MethodFirstNested</name>
+            <className>ClassFirst</className>
+            <time>351</time>
+            <methodsList>
+              <MethodInformation>
+                <name>MethodFirst</name>
+                <className>ClassFirst</className>
+                <time>101</time>
+                <methodsList />
+              </MethodInformation>
+              <MethodInformation>
+                <name>MethodSecond</name>
+                <className>ClassFirst</className>
+                <time>250</time>
+                <methodsList>
+                  <MethodInformation>
+                    <name>MethodFirst</name>
+                    <className>ClassFirst</className>
+                    <time>100</time>
+                    <methodsList />
+                  </MethodInformation>
+                </methodsList>
+              </MethodInformation>
+            </methodsList>
+          </MethodInformation>
+          <MethodInformation>
+            <name>MethodSecondNested</name>
+            <className>ClassFirst</className>
+            <time>656</time>
+            <methodsList>
+              <MethodInformation>
+                <name>MethodFirst</name>
+                <className>ClassSecond</className>
+                <time>204</time>
+                <methodsList />
+              </MethodInformation>
+              <MethodInformation>
+                <name>MethodSecond</name>
+                <className>ClassSecond</className>
+                <time>452</time>
+                <methodsList>
+                  <MethodInformation>
+                    <name>MethodFirst</name>
+                    <className>ClassSecond</className>
+                    <time>200</time>
+                    <methodsList />
+                  </MethodInformation>
+                </methodsList>
+              </MethodInformation>
+            </methodsList>
+          </MethodInformation>
+        </methodsList>
+      </MethodInformation>
+    </methodsList>
+  </XmlItem>
+  <XmlItem>
+    <id>7</id>
+    <time>4124</time>
+    <methodsList>
+      <MethodInformation>
+        <name>MethodStart</name>
+        <className>ClassFirst</className>
+        <time>1358</time>
         <methodsList>
           <MethodInformation>
             <name>MethodFirst</name>
@@ -211,12 +211,12 @@
           <MethodInformation>
             <name>MethodFirstNested</name>
             <className>ClassFirst</className>
-            <time>350</time>
+            <time>352</time>
             <methodsList>
               <MethodInformation>
                 <name>MethodFirst</name>
                 <className>ClassFirst</className>
-                <time>100</time>
+                <time>102</time>
                 <methodsList />
               </MethodInformation>
               <MethodInformation>
@@ -237,18 +237,18 @@
           <MethodInformation>
             <name>MethodSecondNested</name>
             <className>ClassFirst</className>
-            <time>651</time>
+            <time>656</time>
             <methodsList>
               <MethodInformation>
                 <name>MethodFirst</name>
                 <className>ClassSecond</className>
-                <time>200</time>
+                <time>204</time>
                 <methodsList />
               </MethodInformation>
               <MethodInformation>
                 <name>MethodSecond</name>
                 <className>ClassSecond</className>
-                <time>450</time>
+                <time>452</time>
                 <methodsList>
                   <MethodInformation>
                     <name>MethodFirst</name>

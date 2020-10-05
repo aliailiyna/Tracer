@@ -9,6 +9,9 @@ namespace ConsoleApplication
     public class ClassFirst
     {
         private ITracer tracer;
+
+        public static readonly int CLASS_FIRST_METHOD_FIRST_TIME_TO_SLEEP = 100;
+        public static readonly int CLASS_FIRST_METHOD_SECOND_TIME_TO_SLEEP = 150;
         public ClassFirst(ITracer argTracer)
         {
             tracer = argTracer;
@@ -26,14 +29,14 @@ namespace ConsoleApplication
         public void MethodFirst()
         {
             tracer.StartTrace();
-            Thread.Sleep(100);
+            Thread.Sleep(CLASS_FIRST_METHOD_FIRST_TIME_TO_SLEEP);
             tracer.StopTrace();
         }
 
         public void MethodSecond()
         {
             tracer.StartTrace();
-            Thread.Sleep(150);
+            Thread.Sleep(CLASS_FIRST_METHOD_SECOND_TIME_TO_SLEEP);
             MethodFirst();
             tracer.StopTrace();
         }
