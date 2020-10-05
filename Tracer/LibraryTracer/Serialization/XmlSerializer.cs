@@ -35,5 +35,9 @@ namespace LibraryTracer
                 return textWriter.ToString();
             }
         }
+        public string GetName()
+        {
+            return "xml";
+        }
     }
 }

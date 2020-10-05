@@ -11,5 +11,9 @@ namespace LibraryTracer
         {
             return JsonConvert.SerializeObject(traceResult, Formatting.Indented);
         }
+        public string GetName()
+        {
+            return "json";
+        }
     }
 }

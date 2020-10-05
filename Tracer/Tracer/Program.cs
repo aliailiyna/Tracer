@@ -22,13 +22,16 @@ namespace ConsoleApplication
 
             string strJson = jsonSerializer.Serialize(traceResult);
             string strXml = xmlSerializer.Serialize(traceResult);
+            string strNameJson = jsonSerializer.GetName();
+            string strNameXml = xmlSerializer.GetName();
 
-            consoleWriter.Write(strJson);
-            consoleWriter.Write(strXml);
+            fileWriter.Write(strJson, strNameJson);
+            fileWriter.Write(strXml, strNameXml);
 
-            fileWriter.Write(strJson);
-            fileWriter.Write(strXml);
-
+            consoleWriter.Write(strJson, strNameJson);
+            Console.WriteLine();
+            consoleWriter.Write(strXml, strNameXml);
+         
             Console.ReadLine();
         }
     }

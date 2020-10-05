@@ -1,0 +1,264 @@
+{
+  "threadsDictionary": {
+    "1": {
+      "time": 1353,
+      "methodsList": [
+        {
+          "name": "MethodStart",
+          "className": "ClassStarter",
+          "time": 1353,
+          "methodsList": []
+        }
+      ]
+    },
+    "4": {
+      "time": 4102,
+      "methodsList": [
+        {
+          "name": "MethodStart",
+          "className": "ClassFirst",
+          "time": 1351,
+          "methodsList": [
+            {
+              "name": "MethodFirst",
+              "className": "ClassFirst",
+              "time": 100,
+              "methodsList": []
+            },
+            {
+              "name": "MethodSecond",
+              "className": "ClassFirst",
+              "time": 250,
+              "methodsList": [
+                {
+                  "name": "MethodFirst",
+                  "className": "ClassFirst",
+                  "time": 100,
+                  "methodsList": []
+                }
+              ]
+            },
+            {
+              "name": "MethodFirstNested",
+              "className": "ClassFirst",
+              "time": 350,
+              "methodsList": [
+                {
+                  "name": "MethodFirst",
+                  "className": "ClassFirst",
+                  "time": 100,
+                  "methodsList": []
+                },
+                {
+                  "name": "MethodSecond",
+                  "className": "ClassFirst",
+                  "time": 250,
+                  "methodsList": [
+                    {
+                      "name": "MethodFirst",
+                      "className": "ClassFirst",
+                      "time": 100,
+                      "methodsList": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "MethodSecondNested",
+              "className": "ClassFirst",
+              "time": 651,
+              "methodsList": [
+                {
+                  "name": "MethodFirst",
+                  "className": "ClassSecond",
+                  "time": 200,
+                  "methodsList": []
+                },
+                {
+                  "name": "MethodSecond",
+                  "className": "ClassSecond",
+                  "time": 450,
+                  "methodsList": [
+                    {
+                      "name": "MethodFirst",
+                      "className": "ClassSecond",
+                      "time": 200,
+                      "methodsList": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "5": {
+      "time": 4102,
+      "methodsList": [
+        {
+          "name": "MethodStart",
+          "className": "ClassFirst",
+          "time": 1351,
+          "methodsList": [
+            {
+              "name": "MethodFirst",
+              "className": "ClassFirst",
+              "time": 100,
+              "methodsList": []
+            },
+            {
+              "name": "MethodSecond",
+              "className": "ClassFirst",
+              "time": 250,
+              "methodsList": [
+                {
+                  "name": "MethodFirst",
+                  "className": "ClassFirst",
+                  "time": 100,
+                  "methodsList": []
+                }
+              ]
+            },
+            {
+              "name": "MethodFirstNested",
+              "className": "ClassFirst",
+              "time": 350,
+              "methodsList": [
+                {
+                  "name": "MethodFirst",
+                  "className": "ClassFirst",
+                  "time": 100,
+                  "methodsList": []
+                },
+                {
+                  "name": "MethodSecond",
+                  "className": "ClassFirst",
+                  "time": 250,
+                  "methodsList": [
+                    {
+                      "name": "MethodFirst",
+                      "className": "ClassFirst",
+                      "time": 100,
+                      "methodsList": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "MethodSecondNested",
+              "className": "ClassFirst",
+              "time": 651,
+              "methodsList": [
+                {
+                  "name": "MethodFirst",
+                  "className": "ClassSecond",
+                  "time": 200,
+                  "methodsList": []
+                },
+                {
+                  "name": "MethodSecond",
+                  "className": "ClassSecond",
+                  "time": 450,
+                  "methodsList": [
+                    {
+                      "name": "MethodFirst",
+                      "className": "ClassSecond",
+                      "time": 200,
+                      "methodsList": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "6": {
+      "time": 4102,
+      "methodsList": [
+        {
+          "name": "MethodStart",
+          "className": "ClassFirst",
+          "time": 1351,
+          "methodsList": [
+            {
+              "name": "MethodFirst",
+              "className": "ClassFirst",
+              "time": 100,
+              "methodsList": []
+            },
+            {
+              "name": "MethodSecond",
+              "className": "ClassFirst",
+              "time": 250,
+              "methodsList": [
+                {
+                  "name": "MethodFirst",
+                  "className": "ClassFirst",
+                  "time": 100,
+                  "methodsList": []
+                }
+              ]
+            },
+            {
+              "name": "MethodFirstNested",
+              "className": "ClassFirst",
+              "time": 350,
+              "methodsList": [
+                {
+                  "name": "MethodFirst",
+                  "className": "ClassFirst",
+                  "time": 100,
+                  "methodsList": []
+                },
+                {
+                  "name": "MethodSecond",
+                  "className": "ClassFirst",
+                  "time": 250,
+                  "methodsList": [
+                    {
+                      "name": "MethodFirst",
+                      "className": "ClassFirst",
+                      "time": 100,
+                      "methodsList": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "MethodSecondNested",
+              "className": "ClassFirst",
+              "time": 651,
+              "methodsList": [
+                {
+                  "name": "MethodFirst",
+                  "className": "ClassSecond",
+                  "time": 200,
+                  "methodsList": []
+                },
+                {
+                  "name": "MethodSecond",
+                  "className": "ClassSecond",
+                  "time": 450,
+                  "methodsList": [
+                    {
+                      "name": "MethodFirst",
+                      "className": "ClassSecond",
+                      "time": 200,
+                      "methodsList": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

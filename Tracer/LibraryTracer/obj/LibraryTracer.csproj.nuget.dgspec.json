@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\5_semestr\\4.СПП\\Lab_1_4\\Tracer\\LibraryTracer\\LibraryTracer.csproj": {}
+    "e:\\5_semestr\\4.СПП\\Lab_1_5\\Tracer\\LibraryTracer\\LibraryTracer.csproj": {}
   },
   "projects": {
-    "e:\\5_semestr\\4.СПП\\Lab_1_4\\Tracer\\LibraryTracer\\LibraryTracer.csproj": {
+    "e:\\5_semestr\\4.СПП\\Lab_1_5\\Tracer\\LibraryTracer\\LibraryTracer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\5_semestr\\4.СПП\\Lab_1_4\\Tracer\\LibraryTracer\\LibraryTracer.csproj",
+        "projectUniqueName": "e:\\5_semestr\\4.СПП\\Lab_1_5\\Tracer\\LibraryTracer\\LibraryTracer.csproj",
         "projectName": "LibraryTracer",
-        "projectPath": "e:\\5_semestr\\4.СПП\\Lab_1_4\\Tracer\\LibraryTracer\\LibraryTracer.csproj",
+        "projectPath": "e:\\5_semestr\\4.СПП\\Lab_1_5\\Tracer\\LibraryTracer\\LibraryTracer.csproj",
         "packagesPath": "C:\\Users\\Sasha\\.nuget\\packages\\",
-        "outputPath": "e:\\5_semestr\\4.СПП\\Lab_1_4\\Tracer\\LibraryTracer\\obj\\",
+        "outputPath": "e:\\5_semestr\\4.СПП\\Lab_1_5\\Tracer\\LibraryTracer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
