@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Collections.Concurrent;
 using System.Diagnostics;
-using LibraryTracer.Tracing.TraceResult;
 using System.Reflection;
+using LibraryTracer.Tracing.TraceResult;
 
 namespace LibraryTracer
 {
@@ -39,7 +38,7 @@ namespace LibraryTracer
 
             // создание информации о методе
             stackItem.methodInformation = new MethodInformation();
-            stackItem.methodInformation.name = methodBase.Name;
+            stackItem.methodInformation.methodName = methodBase.Name;
             stackItem.methodInformation.className = methodBase.DeclaringType.Name;
 
             // если стек не пуст

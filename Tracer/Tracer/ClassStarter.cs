@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using LibraryTracer;
+﻿using System.Collections.Generic;
 using System.Threading;
-using System.IO;
+using LibraryTracer;
 
 namespace ConsoleApplication
 {

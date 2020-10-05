@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Threading;
 using LibraryTracer;
 using LibraryTracer.Tracing.TraceResult;
-using System.Threading;
 
 namespace ModuleTests
 {
@@ -30,7 +30,7 @@ namespace ModuleTests
             ThreadInformation threadInformation;
             Assert.IsTrue(tracer.GetTraceResult().threadsDictionary.TryGetValue(Thread.CurrentThread.ManagedThreadId, 
                 out threadInformation), "No such thread.");
-            Assert.AreEqual("TestMethodSelfMethodName", threadInformation.methodsList[0].name, "Wrong method name.");
+            Assert.AreEqual("TestMethodSelfMethodName", threadInformation.methodsList[0].methodName, "Wrong method name.");
         }
 
         [TestMethod]

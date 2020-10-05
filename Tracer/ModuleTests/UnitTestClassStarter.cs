@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Threading;
 using LibraryTracer;
 using LibraryTracer.Tracing.TraceResult;
-using System.Threading;
 using ConsoleApplication;
 
 namespace ModuleTests
