@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CSC9gxlvY2ClSp22ilS+5X/vknYCykz1UvlQYzSPsvfFu/AEmMyS8iVifHxcbKceNxJSy5tlCa9kTmEZgw750g==",
+  "dgSpecHash": "/6patyRFUdg1odNa1Fq0TKDZSZXr92hKMBKXvtgrnkTabniNZv1HIbIe3m/Tva8rlorZfvlq3dczVxj9RnuHjw==",
   "success": true,
-  "projectFilePath": "e:\\5_semestr\\4.СПП\\Lab_1_3\\Tracer\\Tracer\\ConsoleApplication.csproj",
+  "projectFilePath": "e:\\5_semestr\\4.СПП\\Lab_1_4\\Tracer\\Tracer\\ConsoleApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sasha\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

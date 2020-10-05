@@ -75,11 +75,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\5_semestr\\4.СПП\\Lab_1_3\\Tracer\\Tracer\\ConsoleApplication.csproj",
+      "projectUniqueName": "e:\\5_semestr\\4.СПП\\Lab_1_4\\Tracer\\Tracer\\ConsoleApplication.csproj",
       "projectName": "ConsoleApplication",
-      "projectPath": "e:\\5_semestr\\4.СПП\\Lab_1_3\\Tracer\\Tracer\\ConsoleApplication.csproj",
+      "projectPath": "e:\\5_semestr\\4.СПП\\Lab_1_4\\Tracer\\Tracer\\ConsoleApplication.csproj",
       "packagesPath": "C:\\Users\\Sasha\\.nuget\\packages\\",
-      "outputPath": "e:\\5_semestr\\4.СПП\\Lab_1_3\\Tracer\\Tracer\\obj\\",
+      "outputPath": "e:\\5_semestr\\4.СПП\\Lab_1_4\\Tracer\\Tracer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,8 +95,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "e:\\5_semestr\\4.СПП\\Lab_1_3\\Tracer\\LibraryTracer\\LibraryTracer.csproj": {
-              "projectPath": "e:\\5_semestr\\4.СПП\\Lab_1_3\\Tracer\\LibraryTracer\\LibraryTracer.csproj"
+            "e:\\5_semestr\\4.СПП\\Lab_1_4\\Tracer\\LibraryTracer\\LibraryTracer.csproj": {
+              "projectPath": "e:\\5_semestr\\4.СПП\\Lab_1_4\\Tracer\\LibraryTracer\\LibraryTracer.csproj"
             }
           }
         }

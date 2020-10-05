@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fKRhzU1jJw7f7PY/RoTQHUPhjNu7rmMp2uVNtFQFnq1/wyy2rl0tEpf8IuxuBs3T/aCw96fungGiUpgjHkkHyA==",
+  "dgSpecHash": "tsoUHl2Sgekj2M/LbXNF+8NVSoigjQK5KIELR5VDxp7lDEECV0HPaovTyJt1VIDrMcyfjuYiG9v4rQs3XPuyQA==",
   "success": true,
-  "projectFilePath": "e:\\5_semestr\\4.СПП\\Lab_1_3\\Tracer\\LibraryTracer\\LibraryTracer.csproj",
+  "projectFilePath": "e:\\5_semestr\\4.СПП\\Lab_1_4\\Tracer\\LibraryTracer\\LibraryTracer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sasha\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

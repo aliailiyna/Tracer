@@ -28,6 +28,7 @@ namespace ConsoleApplication
 
             fileWriter.Write(strJson);
             fileWriter.Write(strXml);
+
             Console.ReadLine();
         }
     }
